@@ -51,6 +51,7 @@ cd chat
 ```bash
 cd server
 npm install
+cp .env.example .env  # Create your .env file from the example
 ```
 
 ### 3. Install Client Dependencies
@@ -58,6 +59,7 @@ npm install
 ```bash
 cd ../client
 npm install
+cp .env.example .env  # Create your .env file from the example
 ```
 
 ## Running the Application
